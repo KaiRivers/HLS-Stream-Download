@@ -5,7 +5,7 @@ What you need :
 
 Cygwin
 
-Cygwin packages :wget, sqlite3
+Cygwin packages : wget, sqlite3
 
 FFMPEG windows
 
