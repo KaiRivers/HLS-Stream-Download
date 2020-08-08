@@ -3,6 +3,8 @@ Use this cygwin Bash script to download HLS streams (M3u8 playlists).
 
 What you need :
 
+Firefox browser
+
 Cygwin
 
 Cygwin packages : wget, sqlite3
